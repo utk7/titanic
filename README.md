@@ -1,1 +1,1 @@
-# titanic
+# titanic eda using python 
